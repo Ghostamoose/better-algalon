@@ -1,4 +1,5 @@
 import os
+import time
 import logging
 
 from datetime import datetime
@@ -23,6 +24,15 @@ def log_start():
 
 def log_separator():
     logger.info("-----------------------------------------------------")
+
+
+def get_discord_timestamp(relative=False):
+        """Returns a formatted timestamp for use in Discord embeds or messages."""
+        current_time = int(time.time())
+        if relative:
+            return f"<t:{current_time}:R>"
+        else:
+            return f"<t:{current_time}:f>"
 
 
 def get_timestamp(day_only=False):

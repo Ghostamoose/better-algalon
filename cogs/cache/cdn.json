@@ -2,18 +2,27 @@
     "buildInfo": {
         "wow": {
             "region": "us",
-            "build": "47187",
-            "build_text": "10.0.2"
+            "build_config": "968defa5a1dee9cd63c5603819067a28",
+            "cdn_config": "ef7c5e71b9dfb6ad90d0cfa84aebae5c",
+            "build": "47213",
+            "build_text": "10.0.2",
+            "product_config": "53020d32e1a25648c8e1eafd5771935f"
         },
         "wowt": {
             "region": "us",
-            "build": "47186",
-            "build_text": "10.0.5"
+            "build_config": "1019140672a83f8d5c284ff8d71ab646",
+            "cdn_config": "ef7c5e71b9dfb6ad90d0cfa84aebae5c",
+            "build": "47481",
+            "build_text": "10.0.5",
+            "product_config": "8e1095475b945aa02fd3f2a2d22993b7"
         },
         "wow_beta": {
             "region": "us",
+            "build_config": "155514ca94e87f373dfa8e244f591a58",
+            "cdn_config": "ef7c5e71b9dfb6ad90d0cfa84aebae5c",
             "build": "47120",
-            "build_text": "10.0.2"
+            "build_text": "10.0.2",
+            "product_config": "f78960b65c1658baf0d4ffa39a3308d5"
         },
         "wowdev": {
             "region": "us",
@@ -22,38 +31,59 @@
         },
         "wow_classic": {
             "region": "us",
+            "build_config": "ebe6bd0f586f7830d10fb37afc00c610",
+            "cdn_config": "ef7c5e71b9dfb6ad90d0cfa84aebae5c",
             "build": "47168",
-            "build_text": "3.4.0"
+            "build_text": "3.4.0",
+            "product_config": "298023f452b03e36fb628b5184e663c0"
         },
         "wow_classic_ptr": {
             "region": "us",
-            "build": "47014",
-            "build_text": "3.4.1"
+            "build_config": "35f5fd8df947adb05a2df12b04cd5bd5",
+            "cdn_config": "ef7c5e71b9dfb6ad90d0cfa84aebae5c",
+            "build": "47585",
+            "build_text": "3.4.1",
+            "product_config": "185eb12ed3095cd66d91c43e77082c06"
         },
         "wow_classic_beta": {
             "region": "us",
+            "build_config": "ccce0cc7e9e008ef5453a0b27fe84376",
+            "cdn_config": "ef7c5e71b9dfb6ad90d0cfa84aebae5c",
             "build": "46158",
-            "build_text": "3.4.0"
+            "build_text": "3.4.0",
+            "product_config": "a48b3c873c4dc6e48f15ee6db72eb600"
         },
         "wow_classic_era": {
             "region": "us",
+            "build_config": "e60d271c46224f9116bd6b97c0cacdf8",
+            "cdn_config": "ef7c5e71b9dfb6ad90d0cfa84aebae5c",
             "build": "46575",
-            "build_text": "1.14.3"
+            "build_text": "1.14.3",
+            "product_config": "611e344b689f01aca4fd70960a9b96ff"
         },
         "wow_classic_era_ptr": {
             "region": "us",
+            "build_config": "5db52cbb911be07513bb1f04d970b20f",
+            "cdn_config": "ef7c5e71b9dfb6ad90d0cfa84aebae5c",
             "build": "46575",
-            "build_text": "1.14.3"
+            "build_text": "1.14.3",
+            "product_config": "078e6fc7e9562636d078c827b9a59547"
         },
         "wowlivetest": {
             "region": "us",
+            "build_config": "9c36159edac4b288f535e1d48a8e7ca5",
+            "cdn_config": "ef7c5e71b9dfb6ad90d0cfa84aebae5c",
             "build": "46479",
-            "build_text": "10.0.2"
+            "build_text": "10.0.2",
+            "product_config": "2acbb87fe14d64e9d1e3c02a27d3bbc9"
         },
         "wowz": {
             "region": "us",
-            "build": "46973",
-            "build_text": "3.4.1"
+            "build_config": "4baf0eeceb53efb112fb603e142f0588",
+            "cdn_config": "ef7c5e71b9dfb6ad90d0cfa84aebae5c",
+            "build": "47245",
+            "build_text": "3.4.1",
+            "product_config": "53b3809d9533124cf1a6e4bed70d1186"
         }
     },
     "watchlist": {
@@ -86,5 +116,5 @@
         "242364846362853377": 286441865442492416
     },
     "last_updated_by": "win32",
-    "last_updated_at": 1671354849.8765771
+    "last_updated_at": 1673561495.7691882
 }
